@@ -1,1 +1,1 @@
-# California-Housing-Prices
+# Project 02: California-Housing-Prices
